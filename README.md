@@ -13,7 +13,12 @@
  [![Github](https://img.shields.io/badge/Github-SHANTO-143green?style=for-the-badge&logo=github)](https://github.com/Mehadi-Hasan-Shanto)
 
 
-
+ 
+ ​<h3><b><i>Visitors :</i></b></h3> 
+  
+ ​<br> 
+  
+ ​![​Visitor Count​](https://profile-counter.glitch.me/darkhunter141/count.svg)
 
 ###​ ​⚙️ ​&nbsp;​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
   
