@@ -18,7 +18,8 @@
   
  ​<br> 
   
- ​![​Visitor Count​](https://github.com/Mehadi-Hasan-Shanto/count.svg)
+  
+ ​![​Visitor Count​](https://profile-counter.glitch.me/Mehadi-Hasan-Shanto/count.svg)
 
 ###​ ​⚙️ ​&nbsp;​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
   
