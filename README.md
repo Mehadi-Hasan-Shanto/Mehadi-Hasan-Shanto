@@ -12,7 +12,8 @@
 
  [![Github](https://img.shields.io/badge/Github-SHANTO-143green?style=for-the-badge&logo=github)](https://github.com/Mehadi-Hasan-Shanto)
 
-![shanto](https://user-images.githubusercontent.com/87250241/155759560-d21530e7-6f09-4af1-8eff-eb00546dd4a9.gif)
+
+
 
 
 ![SHANTO](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
